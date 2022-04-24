@@ -1,9 +1,9 @@
 
-  # jehsbsgbnzh
+  # Meal Maker
 
   ## Description
-  kjzgsdbBkjbkzjbnzdnblb znb. uhsibzdhb zdfhidz dfohjizdjn iozdjfhjz
-  ---
+  This app makes meals for you, using ingredients you have in your fridge or pantry
+  
   ## Table of Contents
     [Description](README.md/#description)
     [Installation](README.md/#installation)
@@ -11,20 +11,20 @@
     [License](README.md/#license)
     [Contributing](README.md/#contributing)
     [Questions](README.md/##questions)
-  ---
+ 
   ## Insallation
-  zjhbga ushdgi idfhisn sini sf
-  ---
+  visit maelmaker.com
+  
   ## Usage
   
-  ![sjfbhjsdhb gb](assets/images/screenshot.png)
-  ---
+  ![mealmaker ignredients list filled up](assets/images/screenshot.png)
+  
   ## License
   ISC
-  ---
-  ## Constributing
-  sjdb dfbhdxn, xjnx nuuxnn
-  ---
-  ## Questions
-  [xkjfgsnznjnnxx]
-  [jdfgbb]
+  
+  ## Contributing
+  collin porter
+  
+  ### Questions
+  <a href='mailto:patrickarcher414@gmail.com'> [patrickarcher414@gmail.com]</a>
+  [jhdgjzgz]

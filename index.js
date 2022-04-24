@@ -5,7 +5,7 @@ const genMD = data => {
 
   ## Description
   ${data.description}
-  ---
+  
   ## Table of Contents
     [Description](README.md/#description)
     [Installation](README.md/#installation)
@@ -13,22 +13,22 @@ const genMD = data => {
     [License](README.md/#license)
     [Contributing](README.md/#contributing)
     [Questions](README.md/##questions)
-  ---
+ 
   ## Insallation
   ${data.installation}
-  ---
+  
   ## Usage
   ${data.usage}
   ![${data.altText}](assets/images/screenshot.png)
-  ---
+  
   ## License
   ${data.license}
-  ---
-  ## Constributing
+  
+  ## Contributing
   ${data.contributing}
-  ---
-  ## Questions
-  [${data.email}]
+  
+  ### Questions
+  <a href='mailto:${data.email}'> [${data.email}]</a>
   [${data.github}]
 `
 }
