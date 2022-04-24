@@ -1,35 +1,35 @@
 
 const genMD = data => {
-    return `
-    # ${data.title}
+  return `
+  # ${data.title}
 
-    ## Description
-    ${data.description}
-    ---
-    ## Table of Contents
+  ## Description
+  ${data.description}
+  ---
+  ## Table of Contents
     [Description](README.md/#description)
     [Installation](README.md/#installation)
     [Usage](README.md/#usage)
     [License](README.md/#license)
     [Contributing](README.md/#contributing)
     [Questions](README.md/##questions)
-    ---
-    ## Insallation
-    ${data.installation}
-    ---
-    ## Usage
-    ${data.usage}
-    ![${data.altText}](assets/images/screenshot.png)
-    ---
-    ## License
-    ${data.license}
-    ---
-    ## Constributing
-    ${data.contributing}
-    ---
-    ## Questions
-    [${data.email}]
-    [${data.github}]
+  ---
+  ## Insallation
+  ${data.installation}
+  ---
+  ## Usage
+  ${data.usage}
+  ![${data.altText}](assets/images/screenshot.png)
+  ---
+  ## License
+  ${data.license}
+  ---
+  ## Constributing
+  ${data.contributing}
+  ---
+  ## Questions
+  [${data.email}]
+  [${data.github}]
 `
 }
 
