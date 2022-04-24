@@ -39,7 +39,7 @@ const genMD = data => {
   
   ### Questions
 
-  Email me with any questions you may have about the application<a href='mailto:${data.email}'> [${data.email}]</a>
+  Email me with any questions you may have about the application<a href='mailto:${data.email}'> ${data.email}</a>
   
   Visit the application Repo to learn more about it [${data.github}]
 `
