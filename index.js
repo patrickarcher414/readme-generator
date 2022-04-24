@@ -7,28 +7,34 @@ const genMD = data => {
   ${data.description}
   
   ## Table of Contents
-    [Description](README.md/#description)
-    [Installation](README.md/#installation)
-    [Usage](README.md/#usage)
-    [License](README.md/#license)
-    [Contributing](README.md/#contributing)
-    [Questions](README.md/##questions)
+  [Description](README.md/#description)
+  [Installation](README.md/#installation)
+  [Usage](README.md/#usage)
+  [License](README.md/#license)
+  [Contributing](README.md/#contributing)
+  [Questions](README.md/##questions)
  
   ## Insallation
+
   ${data.installation}
   
   ## Usage
+
   ${data.usage}
   ![${data.altText}](assets/images/screenshot.png)
   
   ## License
+
   ${data.license}
   
   ## Contributing
+
   ${data.contributing}
   
   ### Questions
+
   Email me with any questions you may have about the application<a href='mailto:${data.email}'> [${data.email}]</a>
+  
   Visit the application Repo to learn more about it [${data.github}]
 `
 }
