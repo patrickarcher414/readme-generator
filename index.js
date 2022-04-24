@@ -3,35 +3,41 @@ const genMD = data => {
   return `
   # ${data.title}
 
-  ## Description
+  ## Description {#description}
   ${data.description}
   
   ## Table of Contents
+
   [Description](README.md/#description)
+
   [Installation](README.md/#installation)
+
   [Usage](README.md/#usage)
+
   [License](README.md/#license)
+
   [Contributing](README.md/#contributing)
+  
   [Questions](README.md/##questions)
  
-  ## Insallation
+  ## Insallation {#installation}
 
   ${data.installation}
   
-  ## Usage
+  ## Usage {#usage}
 
   ${data.usage}
   ![${data.altText}](assets/images/screenshot.png)
   
-  ## License
+  ## License {#license}
 
   ${data.license}
   
-  ## Contributing
+  ## Contributing {#contributing}
 
   ${data.contributing}
   
-  ### Questions
+  ### Questions {#questions}
 
   Email me with any questions you may have about the application<a href='mailto:${data.email}'> [${data.email}]</a>
   

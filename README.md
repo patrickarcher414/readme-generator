@@ -1,36 +1,42 @@
 
   # meal maker
 
-  ## Description
-  this app makes meals
+  ## Description {#description}
+  makes meals
   
   ## Table of Contents
+
   [Description](README.md/#description)
+
   [Installation](README.md/#installation)
+
   [Usage](README.md/#usage)
+
   [License](README.md/#license)
+
   [Contributing](README.md/#contributing)
+  
   [Questions](README.md/##questions)
  
-  ## Insallation
+  ## Insallation {#installation}
 
-  visit mealmaker.com
+  vistit mealmaker.com
   
-  ## Usage
+  ## Usage {#usage}
 
   
-  ![mealmaker site being used](assets/images/screenshot.png)
+  ![meal maker website in use](assets/images/screenshot.png)
   
-  ## License
+  ## License {#license}
 
-  MIT
+  GNU GPLv3 
   
-  ## Contributing
+  ## Contributing {#contributing}
 
   collin porter
   
-  ### Questions
+  ### Questions {#questions}
 
   Email me with any questions you may have about the application<a href='mailto:patrickarcher414@gmail.com'> [patrickarcher414@gmail.com]</a>
   
-  Visit the application Repo to learn more about it [rdjgksbzgfd]
+  Visit the application Repo to learn more about it [jrdgkbsbzg]
