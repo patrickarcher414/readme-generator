@@ -26,7 +26,7 @@
 
   [Video Demo](https://drive.google.com/file/d/1YfGA9h0UWar3gTnz_NnDnDoQSRUwQ95q/view)
 
-  <iframe src="https://drive.google.com/file/d/1YfGA9h0UWar3gTnz_NnDnDoQSRUwQ95q/preview" width="420" height="340"></iframe>
+  ![Demo Video Player](https://drive.google.com/file/d/1YfGA9h0UWar3gTnz_NnDnDoQSRUwQ95q/preview)
   
   Application Screenshot
 
