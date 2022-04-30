@@ -24,13 +24,12 @@
   
   ## Usage
 
-  [Video Demo](https://drive.google.com/file/d/1YfGA9h0UWar3gTnz_NnDnDoQSRUwQ95q/view)
+  [Video Demo Link](https://drive.google.com/file/d/1YfGA9h0UWar3gTnz_NnDnDoQSRUwQ95q/view)
 
   ![Demo Video Player](https://drive.google.com/file/d/1YfGA9h0UWar3gTnz_NnDnDoQSRUwQ95q/preview)
   
   Application Screenshot
-
-  ![commandline app in use](./images/screenshot.png)
+  ![commandline app in use](images/screenshot.png)
   
   ## License
 
