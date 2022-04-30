@@ -29,6 +29,7 @@
   ![Demo Video Player](https://drive.google.com/file/d/1YfGA9h0UWar3gTnz_NnDnDoQSRUwQ95q/preview)
   
   Application Screenshot
+  
   ![commandline app in use](images/screenshot.png)
   
   ## License
